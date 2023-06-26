@@ -7,7 +7,11 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <a href="https://www.jenluchka.com/" target="_blank" rel="noreferrer">
+          <a
+            href="https://www.jenluchka.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={logo} className="logo" alt="modest design Logo" />
           </a>
         </header>
